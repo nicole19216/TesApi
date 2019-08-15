@@ -1,0 +1,21 @@
+2019-08-14 05:18:55.7179 ERROR Something went wrong inside GetAllOwners action: Cannot open database "Tesis004" requested by the login. The login failed.
+Login failed for user 'MACANITA\jp_rz'.
+2019-08-14 05:19:16.4504 ERROR Something went wrong inside GetAllOwners action: Cannot open database "Tesis004" requested by the login. The login failed.
+Login failed for user 'MACANITA\jp_rz'.
+2019-08-14 05:27:04.1076 ERROR Something went wrong inside GetAllOwners action: Cannot open database "Tesis004" requested by the login. The login failed.
+Login failed for user 'MACANITA\jp_rz'.
+2019-08-14 05:27:04.1076 ERROR Something went wrong inside GetAllOwners action: Cannot open database "Tesis004" requested by the login. The login failed.
+Login failed for user 'MACANITA\jp_rz'.
+2019-08-14 05:42:41.0746 ERROR Something went wrong inside GetAllOwners action: Cannot open database "Tesis004" requested by the login. The login failed.
+Login failed for user 'MACANITA\jp_rz'.
+2019-08-14 05:49:51.9922 ERROR Something went wrong inside GetAllOwners action: Cannot open database "tesis004" requested by the login. The login failed.
+Login failed for user 'MACANITA\jp_rz'.
+2019-08-14 06:02:17.5338 ERROR Something went wrong inside GetAllOwners action: Cannot open database "tesis004" requested by the login. The login failed.
+Login failed for user 'MACANITA\jp_rz'.
+2019-08-14 06:09:04.4029 ERROR Something went wrong inside GetAllOwners action: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2019-08-14 06:32:38.6630 ERROR Something went wrong inside GetAllOwners action: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2019-08-14 06:44:57.7676 INFO Returned all owners from database.
+2019-08-14 06:55:42.4678 INFO Returned all owners from database.
+2019-08-14 07:09:35.0368 INFO Returned owner with id: 1
+2019-08-14 07:09:42.5679 INFO Returned owner with id: 2
+2019-08-14 07:09:45.0068 ERROR Owner with id: 3, hasn't been found in db.
